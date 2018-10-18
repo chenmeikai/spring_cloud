@@ -1,13 +1,14 @@
-package com.kenhome.client_web;
+package com.kenhome.complex;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @EnableDiscoveryClient
 @SpringBootApplication
-public class ClientWebApplication {
+public class ServerComplexApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ClientWebApplication.class, args);
+        SpringApplication.run(ServerComplexApplication.class, args);
     }
 }

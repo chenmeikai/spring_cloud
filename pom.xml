@@ -9,6 +9,8 @@
     <version>1.0</version>
     <modules>
         <module>pom_spring</module>
+        <module>pom_server</module>
+        <module>body_common</module>
     </modules>
 
     <packaging>pom</packaging>

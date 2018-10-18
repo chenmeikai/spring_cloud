@@ -1,4 +1,4 @@
-package com.kenhome.pom_client;
+package com.kenhome.complex;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class PomClientApplicationTests {
+public class ServerComplexApplicationTests {
 
     @Test
     public void contextLoads() {

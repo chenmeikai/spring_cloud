@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/base_registry/base_registry.iml" filepath="$PROJECT_DIR$/base_registry/base_registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/body_common/body_common.iml" filepath="$PROJECT_DIR$/body_common/body_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/client_web/client_web.iml" filepath="$PROJECT_DIR$/client_web/client_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/pom_client/pom_client.iml" filepath="$PROJECT_DIR$/pom_client/pom_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pom_server/pom_server.iml" filepath="$PROJECT_DIR$/pom_server/pom_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/pom_spring/pom_spring.iml" filepath="$PROJECT_DIR$/pom_spring/pom_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server_complex/server_complex.iml" filepath="$PROJECT_DIR$/server_complex/server_complex.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_cloud.iml" filepath="$PROJECT_DIR$/spring_cloud.iml" />
     </modules>
   </component>

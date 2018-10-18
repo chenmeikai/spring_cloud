@@ -16,6 +16,8 @@
     <modules>
         <module>../base_registry</module>
         <module>../pom_client</module>
+        <module>../pom_server</module>
+        <module>../body_common</module>
     </modules>
 
 

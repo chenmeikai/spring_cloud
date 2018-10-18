@@ -7,15 +7,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="base_registry" />
+        <module name="body_common" />
         <module name="client_web" />
         <module name="pom_client" />
+        <module name="pom_server" />
+        <module name="server_complex" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="base_registry" target="1.5" />
+      <module name="body_common" target="1.5" />
       <module name="client_web" target="1.5" />
       <module name="pom_client" target="1.5" />
+      <module name="pom_server" target="1.5" />
       <module name="pom_spring" target="1.5" />
+      <module name="server_complex" target="1.5" />
       <module name="spring_cloud" target="1.5" />
     </bytecodeTargetLevel>
   </component>
